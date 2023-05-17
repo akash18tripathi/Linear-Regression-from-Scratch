@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter notebook that implements Linear Regression using Gradient Descent from scratch. The notebook also includes a comparison of the results with the scikit-learn implementations of Linear, Lasso, and Ridge Regression by plotting graphs.
 
+## Viewing the Notebook
+- If you are unable to render the notebook on Github, you can use the below link [Notebook Link](https://nbviewer.org/github/akash18tripathi/Linear-Regression-from-Scratch/blob/main/Linear%20Regression%20from%20scratch.ipynb)
 ## Contents
 
 - [Introduction](#introduction)
